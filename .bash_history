@@ -10,3 +10,5 @@ git remote add origin https://github.com/john3connor/it_nihongo_myrepo.git
 git push -u origin master
 git branch newRepo
 git checkout newRepo 
+git add .
+git commit -m "hello"
